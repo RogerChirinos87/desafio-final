@@ -1,3 +1,10 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+.contenedor-educacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
