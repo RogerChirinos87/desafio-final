@@ -4,7 +4,17 @@ body {
 
 .contenedor-educacion{
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     justify-content: space-between;
-    align-content: center;
+    align-content: space-evenly;
+}
+
+.educacion{
+    margin-top: 5%;
+    margin-right: 20%;
+}
+
+.subcontenedor{
+    margin-top: 5%;
+    margin-left: 10%
 }
