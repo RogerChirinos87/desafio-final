@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+div .card-footer{
+    margin-inline-end: 0%;
+    padding: 0;
+    
+}
