@@ -77,6 +77,7 @@ body{
     
     footer{
         display: flex;
+        align-items: center;
         justify-content: center;
         background-color: #1E1A13;
         font-family: 'Raleway', sans-serif;
@@ -86,8 +87,4 @@ body{
         padding-right: 299px;
         padding-bottom: 39px;
         padding-left: 299px;
-    }
-    
-    footer p,a{
-        padding-top: 39;
     }
