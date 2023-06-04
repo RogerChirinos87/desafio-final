@@ -27,9 +27,17 @@ body {
     text-align: center;
 }
 
-.experiencia {
-    display: flex;
+.experiencia1 {
+    text-align: center;
+}
 
+.tarjetas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetas img{
+    margin-top: 35%;
 }
 
 .nombres{
