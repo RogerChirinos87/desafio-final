@@ -23,6 +23,15 @@ body {
     margin-bottom: 5%;
 }
 
+.acerca {
+    text-align: center;
+}
+
+.experiencia {
+    display: flex;
+
+}
+
 .nombres{
     display: flex;
     justify-content: center;
